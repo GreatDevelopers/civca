@@ -1,0 +1,9 @@
+Steps to execute the program
+
+1. Compile the linecircle.cpp
+	$g++ linecircle.cpp -o linecircle
+
+2.Run linecircle
+	$./linecircle
+
+Check the output file linecircle.dxf  
