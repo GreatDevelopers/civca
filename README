@@ -1,0 +1,14 @@
+There are three files-header.txt,footer.txt,linecircle.cpp that must be in same directory.
+linecircle.cpp is a main file that uses other two files for reading and writing to linecircle.dxf file.
+I had given the comments in the main file to understand the program.
+This program is very useful because user has to give only the inputs,it will automatically generate line and circle according to their wish.
+
+Steps to execute the linecircle.cpp
+
+1. Compile the linecircle.cpp
+	$g++ linecircle.cpp -o linecircle
+
+2.Run linecircle
+	$./linecircle
+
+Check the output file linecircle.dxf  
